@@ -1,0 +1,31 @@
+541,909 rows × 8 columns
+
+Columns:
+
+InvoiceNo
+StockCode
+Description
+Quantity
+InvoiceDate
+UnitPrice
+CustomerID
+Country
+
+Missing values: 
+InvoiceNo           0
+StockCode           0
+Description      1454
+Quantity            0
+InvoiceDate         0
+UnitPrice           0
+CustomerID     135080
+Country             0
+dtype: int64
+
+Number of exact duplicates: 5268
+
+Cancelled invoices: 9288
+
+Quantity <= 0: 10624
+
+UnitPrice <= 0: 2517
